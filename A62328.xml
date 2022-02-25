@@ -1,0 +1,445 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Sceptical muse, or, A Paradox on human understanding a poem.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62328</idno>
+            <idno type="STC">Wing S847</idno>
+            <idno type="STC">ESTC R32629</idno>
+            <idno type="EEBO-CITATION">12735192</idno>
+            <idno type="OCLC">ocm 12735192</idno>
+            <idno type="VID">93001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93001)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1536:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Sceptical muse, or, A Paradox on human understanding a poem.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Basset at the Goerge [sic], and sold by Fr. Hicks ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93001:1"/>
+            <!-- PDF PAGE 115 -->
+            <pb facs="tcp:93001:1"/>
+            <!-- PDF PAGE 115 -->
+            <p>THE Sceptical Muſe: OR, A PARADOX ON <hi>Humane Vnderſtanding.</hi>
+            </p>
+            <p>A POEM.</p>
+            <q>
+               <p>Veri nihil: Omnia ficta</p>
+               <bibl>Lucil.</bibl>
+            </q>
+            <q>
+               <p>Heu! quam praecipiti merſa profundo<lb/>
+Mens hebet!</p>
+               <bibl>Boet. de Conſol. Philoſoph.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Baſſet</hi> at the <hi>Goerge</hi> in <hi>Fleetſtreet,</hi> and Sold by <hi>Fr. Hicks</hi> Bookſeller in <hi>Cambridge,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:93001:2"/>
+            <!-- PDF PAGE 116 -->
+            <pb n="1" facs="tcp:93001:2"/>
+            <!-- PDF PAGE 116 -->
+            <head>THE Sceptical Muſe; OR, A PARADOX ON <hi>Humane Vnderſtanding.</hi>
+            </head>
+            <lg>
+               <l>TO make a World, and ſtretch the bulky Frame</l>
+               <l>Beyond where Thought or Fancy ever came:</l>
+               <l>The great Creators <hi>Fiat</hi> did ſuffice;</l>
+               <l>Mov'd by one Word the Maſſy Sphere did riſe.</l>
+               <l>But when he did the World's great Lord Create,</l>
+               <l>The Sacred <hi>Triad</hi> then in Council ſate.</l>
+               <l>
+                  <hi>Let us make Man,</hi> ſaid God, whom we'll allow</l>
+               <l>To rule the Globe, and be Vice-God below.</l>
+               <l>Let us Create him too like us Divine:</l>
+               <l>And on his Soul let our bright Image ſhine.</l>
+               <l>So ſpake th' <hi>Eternal,</hi> and was heard around:</l>
+               <l>Lowd Peals of Thunder did attend the ſound;</l>
+               <l>Nature obey'd, and lo! The teeming Earth</l>
+               <l>Produc'd a Figure of Ignoble Birth;</l>
+               <l>Of ſmall account, 'till the Celeſtial Soul</l>
+               <l>Inform'd the Clay, and ſo compos'd the whole.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:93001:3"/>
+               <!-- PDF PAGE 117 -->
+               <l>As firſt the <hi>Primogenial</hi> Light was hurl'd,</l>
+               <l>And ſcatter'd through the yet unfiniſh'd World;</l>
+               <l>Till God proceeding on his work did place</l>
+               <l>The Lucid Atoms in one ſhining Maſs;</l>
+               <l>So thoſe perfections which divided ſhone</l>
+               <l>In Nature's works did yet unite in none;</l>
+               <l>Till Man appear'd, a Creature more compleat:</l>
+               <l>Where all thoſe lively ſcatter'd graces met.</l>
+            </lg>
+            <lg>
+               <l>This glorious Being thus Divinely made</l>
+               <l>Exerts its pow'rs, and wonders are diſplay'd:</l>
+               <l>The Soul which was of pureſt Angel-kind,</l>
+               <l>The reflex Image of its Makers Mind:</l>
+               <l>At firſt unſpotted by Polluting Sin,</l>
+               <l>With vigour did the Race of Life begin;</l>
+               <l>With all its Pow'rs and Faculties compleat</l>
+               <l>Started with Joy, and no reſiſtance met,</l>
+               <l>Then th' <hi>
+                     <g ref="char:V">Ʋ</g>nderſtanding</hi> without pain did climb:</l>
+               <l>Capacious, Active, Lively, and Sublime,</l>
+               <l>Clear as fair Fountains, and as pure as they,</l>
+               <l>Chaſt as the Morn, and open as the day.</l>
+               <l>The <hi>Will,</hi> which always follow'd Nature's Voice,</l>
+               <l>Was ne'er deceiv'd, but made a happy choice;</l>
+               <l>
+                  <hi>Judgment</hi> was then convictive, and ſincere;</l>
+               <l>And all <hi>Diſcourſe</hi> as Intuition clear.</l>
+               <l>Then Truth, or God himſelf, whom Truth we name</l>
+               <l>(For God and Truth are without doubt the ſame)</l>
+               <l>Was always preſent, and uncourted came;</l>
+               <l>
+                  <pb n="3" facs="tcp:93001:3"/>
+                  <!-- PDF PAGE 117 -->
+That Immenſe Ocean which with Beauty flows;</l>
+               <l>That utmoſt <hi>Thule</hi> of Extended Vows</l>
+               <l>The Soul poſſeſs'd, nor from the Object mov'd:</l>
+               <l>But gaz'd, admir'd, contemplated, and lov'd.</l>
+               <l>Love then, that ſwe<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> proceſſion of the Mind,</l>
+               <l>Was from all Droſs, and Earthly Dreggs refin'd:</l>
+               <l>Wing'd with pure Zeal above the Clouds it rode,</l>
+               <l>And without <hi>Plato's</hi> Scale arriv'd at God.</l>
+            </lg>
+            <lg>
+               <l>To what perfection muſt that Schollar reach</l>
+               <l>Whom God's Immediate Diſcipline did teach?</l>
+               <l>Man at the firſt in perfect ſtate appears;</l>
+               <l>Mature in Knowledge and mature in Years.</l>
+               <l>From him We firſt Philoſophy may trace:</l>
+               <l>Parent of Wiſdom, as of Human Race.</l>
+               <lg>
+                  <l>O the Vaſt Riches of this New-born Mind!</l>
+                  <l>To furniſh this, Heav'n prov'd exceſſive kind</l>
+                  <l>Laviſh'd its Treaſures, and left none behind.</l>
+               </lg>
+               <l>Since then, no Soul ſo brightly clad appears:</l>
+               <l>Such Seraph's Robes, nor Heav'nly Garments wears.</l>
+               <l>Unſtudy'd Knowledge only was deſign'd,</l>
+               <l>The rich Attire of <hi>Adam</hi>'s glorious Mind.</l>
+               <l>Thro' Nature's maze he knowledge could perſue;</l>
+               <l>And no dark Object could contract his View.</l>
+               <l>The Proſpect lengthen'd, as the Mind advanc'd,</l>
+               <l>While all before in beauteous Order danc'd.</l>
+               <l>Creation ſtoop'd, and ev'ry Creature came,</l>
+               <l>Diſplay'd its Nature, and receiv'd a Name.</l>
+               <l>
+                  <pb n="4" facs="tcp:93001:4"/>
+                  <!-- PDF PAGE 118 -->
+Thus Knowledge firſt was without pains acquir'd:</l>
+               <l>Man knew enough, but yet to more aſpir'd;</l>
+               <l>To be more knowing, and more like his God:</l>
+               <l>Leaving the true, forbidden paths he trod,</l>
+               <l>But O, Abortive hopes! O fickle Joy<g ref="char:punc">▪</g>
+               </l>
+               <l>His vain Ambition God did ſoon deſtroy;</l>
+               <l>For lo! A Cloud comes wing'd with ſudden night,</l>
+               <l>Man falls by Sin, and God withdraws his Light;</l>
+               <l>No more he finds the uſe of ſhining day;</l>
+               <l>But gropes for Knowledge, and miſtakes his way.</l>
+               <l>So Angels once a happy ſtate could boaſt:</l>
+               <l>O the bright Glories of that ſhining Hoſt!</l>
+               <l>But when th' Apoſtates fierce Rebellion dar'd:</l>
+               <l>Sin'd to be great, and with th' <hi>Almighty</hi> warr'd,</l>
+               <l>Vengeance Divine did ſoon the fact perſue:</l>
+               <l>And from <hi>Elyſium</hi> ſent the Godleſs Crew.</l>
+            </lg>
+            <lg>
+               <l>Our miſ'ry then from <hi>Adam</hi> firſt we date:</l>
+               <l>Begun too ſoon, and ending very late.</l>
+               <l>Life now does ſcarce one glimpſe of light diſplay;</l>
+               <l>We mourn in darkneſs, and Deſpair of day.</l>
+               <l>That <hi>Nat'ral</hi> light, once dreſs'd with <hi>Orient</hi> beams:</l>
+               <l>Diminiſh'd looks, and now a Twilight ſeems:</l>
+               <l>A Miſcellaneous Compoſition, made</l>
+               <l>Of Night, and Day, of Sun-ſhine, and of Shade.</l>
+               <l>Through an uncertain <hi>Medium</hi> now we look;</l>
+               <l>And find that Falſhood, which for Truth we took;</l>
+               <l>
+                  <pb n="5" facs="tcp:93001:4"/>
+                  <!-- PDF PAGE 118 -->
+So Rays projected from the Eaſtern Skies,</l>
+               <l>Shew the falſe Day, before the true can riſe.</l>
+            </lg>
+            <lg>
+               <l>Unhappy Man who through ſucceſſive years</l>
+               <l>To Life's laſt Ebb, from early Childhood Errs!</l>
+               <l>No ſooner born, but proves a Foe to Truth:</l>
+               <l>For Infant Reaſon is o'er powr'd in Youth;</l>
+               <l>The Cheats of ſenſe will half our Learning ſhare:</l>
+               <l>And Preconceptions all our knowledge are.</l>
+               <l>Reaſon 'tis true, ſhould over ſenſe preſide,</l>
+               <l>Correct our Notions and our Judgments guide;</l>
+               <l>But falſe Opinions, rooted in the mind</l>
+               <l>Hood-wink the Soul, and keep the Reaſon blind;</l>
+               <l>Reaſon's a Taper, which but faintly burns:</l>
+               <l>A Languid Flame that glows and dies by turns:</l>
+               <l>We ſee't a while, and but a little way</l>
+               <l>We travel by its Light, as Men by Day;</l>
+               <l>But quickly dying, it forſakes us ſoon;</l>
+               <l>Like Morning Stars that never ſtay till Noon.</l>
+            </lg>
+            <lg>
+               <l>The Soul can ſcarce above the body riſe,</l>
+               <l>And all we ſee is with corporeal Eyes.</l>
+               <l>That little knowledge now which Man obtains,</l>
+               <l>From outward Objects, and from Senſe, he gleans.</l>
+               <l>He, like the painful Bee, muſt plod and ſweat:</l>
+               <l>By day muſt toil, by night that toil repeat;</l>
+               <l>And yet at laſt, what little Fruit he gains?</l>
+               <l>A Beggar's Harveſt, glean'd with mighty pains.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:93001:5"/>
+               <!-- PDF PAGE 119 -->
+               <l>The Paſſions ſtill predominant will rule:</l>
+               <l>Uncivil, rude, nor bred in Reaſon's School:</l>
+               <l>Our Underſtanding they with darkneſs fill,</l>
+               <l>Cauſe ſtrange Conceptions, and pervert the Will.</l>
+               <l>On theſe the Soul, as on ſome flowing tide,</l>
+               <l>Muſt ſit, and on the ſwelling Billows ride;</l>
+               <l>Hurry'd away, for how can be withſtood</l>
+               <l>Th' Impetuous Torrent of the boyling blood?</l>
+               <l>Be gone falſe hopes, for all our Learning's vain,</l>
+               <l>Can we be free when theſe the rule maintain?</l>
+               <l>Theſe are the tools of Knowledge which we uſe,</l>
+               <l>The ſpirits heated will ſtrange things produce.</l>
+               <l>Tell me who e'er the Paſſions could controul,</l>
+               <l>Or from the body diſengage the ſoul:</l>
+               <l>Till this is done, our beſt perſuits are vain</l>
+               <l>To conquer Truth, and unmixt knowledge gain.</l>
+            </lg>
+            <lg>
+               <l>Cuſtom the World's great Idol we adore:</l>
+               <l>And knowing this, we ſeek to know no more<g ref="char:punc">▪</g>
+               </l>
+               <l>What Education did at firſt receive</l>
+               <l>Maturer Age confirms us to believe.</l>
+               <l>The careful Nurſe, and Prieſt is all we need</l>
+               <l>To learn Opinions, and our Country's Creed;</l>
+               <l>The Parents precepts early are inſtill'd</l>
+               <l>And ſpoil the Man, while they inſtruct the Child.</l>
+               <l>To what hard Fate is Human-kind betray'd?</l>
+               <l>When thus Implicit Faith's a Vertue made;</l>
+               <l>
+                  <pb n="7" facs="tcp:93001:5"/>
+                  <!-- PDF PAGE 119 -->
+When Education more than Truth prevails</l>
+               <l>And nought is current but what Cuſtom ſeals.</l>
+               <l>Thus from the time we firſt begin to know</l>
+               <l>We live and learn, but not the wiſer grow;</l>
+               <l>We ſeldom uſe our liberty aright,</l>
+               <l>Nor Judge of things by Univerſal Light:</l>
+               <l>Our prepoſſeſſions and Affections bind</l>
+               <l>The Soul in Chains and lord it o'er the Mind.</l>
+               <l>And if ſelf Int'reſt be but in the caſe</l>
+               <l>Our unexamin'd Principles may paſs.</l>
+               <l>Good God! that man ſhould thus himſelf deceive,</l>
+               <l>To learn on Credit, and on Truſt believe:</l>
+               <l>Better the Mind no Notions had retain'd,</l>
+               <l>But ſtill a fair unwritten blank remain'd.</l>
+               <l>For now who Truth from Falſhood would diſcern</l>
+               <l>Muſt firſt diſrobe the Mind, and all unlearn:</l>
+               <l>Errors, contracted in unmindful Youth,</l>
+               <l>When once remov'd, will ſmooth the way for Truth:</l>
+               <l>To diſpoſſeſs the <hi>Child</hi> the Mortal lives,</l>
+               <l>But Death approaches e'er the <hi>Man</hi> arrives.</l>
+            </lg>
+            <lg>
+               <l>Thoſe who would Learning's glorious Kingdom find,</l>
+               <l>The dear bought purchaſe of the trading Mind:</l>
+               <l>From many dangers muſt themſelves acquit,</l>
+               <l>And more than <hi>Scylla</hi> and <hi>Charybdis</hi> meet.</l>
+               <l>O what an Ocean muſt be Voyag'd o'er!</l>
+               <l>To gain a proſpect of the ſhining ſhore:</l>
+               <l>
+                  <pb n="8" facs="tcp:93001:6"/>
+                  <!-- PDF PAGE 120 -->
+Reſiſting Rocks oppoſe the bounding Soul,</l>
+               <l>And adverſe Waves retard it as they roll.</l>
+               <l>Does not that fooliſh deference we pay</l>
+               <l>To Men that liv'd long ſince, our paſſage ſtay?</l>
+               <l>O what prepoſt'rous paths at firſt we tread!</l>
+               <l>And learn to walk by ſtumbling on the Dead.</l>
+               <l>Firſt we a bleſſing from the Grave implore,</l>
+               <l>Worſhip Old Urns, and Monuments adore:</l>
+               <l>The Rev'rend Sage with vaſt eſteem we prize;</l>
+               <l>He liv'd long ſince, and muſt be wond'rous wiſe.</l>
+               <l>Thus are we Debtors to the famous Dead</l>
+               <l>For all thoſe Errors which their Phancies bred,</l>
+               <l>Errors indeed! for real Knowledge ſtay'd</l>
+               <l>With thoſe firſt times, nor farther was convey'd;</l>
+               <l>But light Opinions are much lower brought;</l>
+               <l>While on the Waves of Ignorance they float:</l>
+               <l>But ſolid Truth ſcarce ever gains the ſhore</l>
+               <l>So ſoon it ſinks, and ne'r emerges more.</l>
+            </lg>
+            <lg>
+               <l>And now ſuppoſe this maze of dangers paſt:</l>
+               <l>Will Knowledge dawn, and bleſs the Mind at laſt</l>
+               <l>Ah! no, 'tis now environ'd from our Eyes,</l>
+               <l>Hides all its Charms, and undiſcover'd lies.</l>
+               <l>Truth like a point or line eſcapes the ſight</l>
+               <l>And claims Intention to perceive it right:</l>
+               <l>But what reſembles Truth is ſoon deſcry'd,</l>
+               <l>Spread like a ſurface, and expanded wide:</l>
+               <l>
+                  <pb n="9" facs="tcp:93001:6"/>
+                  <!-- PDF PAGE 120 -->
+The firſt Man rarely, very rarely finds:</l>
+               <l>The tedious ſearch of long inquiring Minds.</l>
+               <l>But yet what's worſe, we know not when we err;</l>
+               <l>What mark does Truth, what bright diſtinction bear?</l>
+               <l>How do we know, that what we know is true?</l>
+               <l>How ſhall we falſehood fly, and truth perſue?</l>
+               <l>Let none then here his certain knowledge boaſt;</l>
+               <l>'Tis all but probability at moſt:</l>
+               <l>This is the eaſie purchaſe of the Mind,</l>
+               <l>The Vulgar's Treaſure, which we ſoon may find:</l>
+               <l>But Truth lies hid, and e'er we can explore</l>
+               <l>The glitt'ring Gem, our fleeting Life is o'er.</l>
+            </lg>
+            <lg>
+               <l>Through all the bulky Volumes of the Dead,</l>
+               <l>And through thoſe Books which modern times have bred</l>
+               <l>The Soul may travel, as thro Mooriſh ground:</l>
+               <l>Where ſcarce one Uſeful Plant is ever found:</l>
+               <l>O'er-run with Errors, which ſo thick appear,</l>
+               <l>That ſearching Truth, we cannot find it there:</l>
+            </lg>
+            <lg>
+               <l>Bleſs'd <hi>Revelation</hi> but for thee we might</l>
+               <l>Have travel'd thro' a dark and tedious night;</l>
+               <l>Thy wond'rous force hath reach'd th' Impriſon'd Mind,</l>
+               <l>And loos'd thoſe Fetters, which her pow'rs did bind;</l>
+               <l>Now, now ſhe's free, and can with Eaſe run o'er</l>
+               <l>Thoſe obvious Truths ſo much perplex'd before</l>
+               <l>
+                  <pb n="10" facs="tcp:93001:7"/>
+                  <!-- PDF PAGE 121 -->
+Reaſon has little now to do but prove</l>
+               <l>That ſome moſt perfect Being rules above,</l>
+               <l>And this by little Inference we find:</l>
+               <l>'Tis plain; 'tis bright, 'tis written on the Mind.</l>
+               <l>If there's a God, it then muſt be believ'd</l>
+               <l>He's no Deceiver, nor can be deceiv'd;</l>
+               <l>And if he ſpake, as may be plainly prov'd;</l>
+               <l>Then truth prevails, and every doubt's remov'd.</l>
+               <l>Here then at laſt my weary'd Soul ſhall reſt:</l>
+               <l>With Heav'nly light, and ſacred knowledge bleſt.</l>
+               <l>And now methinks bright Angels round me ſtand,</l>
+               <l>And bid me welcome to a peaceful Land.</l>
+               <l>Methinks I'm lifted to an higher Sphere</l>
+               <l>Where all is mild, and all the Proſpect clear:</l>
+               <l>From hence I can behold contending Schools,</l>
+               <l>Diſputing Sects, Philoſophers, and Fools;</l>
+               <l>Now I can each Hypotheſis deſpiſe,</l>
+               <l>Laugh at Opinions, and be boldly wiſe:</l>
+               <l>No more, Ye <hi>Dogmatiſts,</hi> your Wit ſhall harm</l>
+               <l>My liſs'ning Soul, no more my Reaſon charm;</l>
+               <l>No more you ſhall my Faculties controul:</l>
+               <l>Suſpicion guards, and Doubt defends my Soul,</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93001:7"/>
+            <!-- PDF PAGE 121 -->
+         </div>
+      </body>
+   </text>
+</TEI>
